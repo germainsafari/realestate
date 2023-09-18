@@ -1,3 +1,9 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+import React from 'react'
+
+function App() {
+  return (
+    <div>App</div>
+  )
+}
+
+export default App
